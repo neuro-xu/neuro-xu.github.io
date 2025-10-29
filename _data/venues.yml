@@ -1,9 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"psychophysics":
+  color: "#BADFDB"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"computation":
+  color: "#FEE2AD"
 
-"Vision":
-  color: "#009f36"
+"review":
+  color: "#B0CE88"
+
+"neuroimaging":
+  color: "#B7B89F"
+
+"ephys":
+  color: "#C0C9EE"
+
+"dissertation":
+  color: "#F5E5E1"
