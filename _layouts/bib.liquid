@@ -371,9 +371,26 @@
     {% endif %}
 
     {% if entry.award %}
+      {% assign awards = entry.award | split: ';' %}
+      {% if entry.award_link %}
+        {% assign award_links = entry.award_link | split: ';' %}
+      {% endif %}
+
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
-        <p>{{ entry.award | markdownify }}</p>
+        {% for award in awards %}
+          {% assign award_trimmed = award | strip %}
+          {% assign idx = forloop.index0 %}
+          <p>
+            {% if entry.award_link and award_links[idx] %}
+              <a href="{{ award_links[idx] | strip }}">
+                {{ award_trimmed }}
+              </a>
+            {% else %}
+              {{ award_trimmed | markdownify }}
+            {% endif %}
+          </p>
+        {% endfor %}
       </div>
     {% endif %}
 

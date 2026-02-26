@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow, Harvard Medical School<br><a href="mailto:brian_xu(at)hms.harvard.edu">brian_xu at hms.harvard.edu</a>
+subtitle: Postdoctoral Fellow, Harvard Medical School<br><a href="mailto:brian_xu@hms.harvard.edu">brian_xu at hms.harvard.edu</a>
 
 profile:
   align: right
