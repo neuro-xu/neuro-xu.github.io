@@ -24,7 +24,7 @@ social: false # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a postdoctoral fellow in the Department of Neurobiology at Harvard Medical School, working with [Bob Datta](http://datta.hms.harvard.edu/). My research focueses on understanding how the brain organizes natural behavior in response to environmental affordances and internal needs. 
+Hi there! I am a postdoctoral fellow in the Department of Neurobiology at Harvard Medical School, working with [Bob Datta](http://datta.hms.harvard.edu/). My research focuses on how the brain organizes natural behavior in response to environmental affordances and internal needs. 
 
 I completed my PhD in Brain and Cognitive Sciences at the University of Rochester with [Greg DeAngelis](https://www.sas.rochester.edu/bcs/people/faculty/deangelis_greg/index.html), where I investigated the neural mechanisms underlying motion and depth perception during self-motion. Before that, I was trained in mechanical engineering and visual psychophysics.
 

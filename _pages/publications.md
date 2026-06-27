@@ -10,7 +10,7 @@ nav_order: 3
 
 see <u><a href="https://scholar.google.com/citations?user=632LW50AAAAJ&hl=en">here</a></u> for more information.
 
-(* indicates equal contribution)
+(* = equal contribution)
 
 <!-- {% include bib_search.liquid %} -->
 
