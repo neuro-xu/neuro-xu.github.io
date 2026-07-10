@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Postdoctoral Fellow, Harvard Medical School<br><a href="mailto:brian_xu@hms.harvard.edu">brian_xu at hms.harvard.edu</a>
 

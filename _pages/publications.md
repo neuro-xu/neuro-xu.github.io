@@ -1,20 +1,20 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description:  
 nav: true
 nav_order: 3
 ---
 
 
-see <u><a href="https://scholar.google.com/citations?user=632LW50AAAAJ&hl=en">here</a></u> for more information.
+See <u><a href="https://scholar.google.com/citations?user=632LW50AAAAJ&hl=en">here</a></u> for more information.
 
 (* = equal contribution)
 
 <!-- {% include bib_search.liquid %} -->
 
-<div class="publications">
+<div class="Publications">
 
 {% bibliography %}
 
